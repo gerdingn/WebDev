@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="bootstrap.css">
+  <script src="jquery-3.3.1.min.js"></script>
+ <script src="myScript.js"></script>
+  <link rel="stylesheet" href="style.css">
+    <title>Nekoda's Dream Job!</title>
+  </head>
+  <body>
+    <header>
+	
+
+  <h1>Nekoda's Dream Job</h1>
+  <img src="NetworkAdmin.jpg" alt="Network Admin" width="1000" height="500"class="center">
+  
+  <div class="topnav">
+  <a class="active" href="index.html">Home</a>
+  <a href="job.html">Dream Job</a>
+  <a href="Contact.html">Contact</a>
+<div id="flip">Click to learn about me</div>
+<div id="panel">My name is Nekoda Gerding. I am a Senior Computer Information Systems Major at Hannibal Lagrange University. I am graduating May of 2019 with a Bachelor's Degree in CIS with an Emphasis in Data Analysis.</div>
+</div> 
+<button class="btn btn-primary">Highlight the 5th class on the schedule</button>
+<ul>
+  <li>Web
+    <ul>
+      <li>Web Design</li>
+      <li>Web Development</li>
+      <li>BIS Web Page Desing</li>
+    </ul>
+  </li>
+  <li>Security and Forensics</li>
+  <li>Computer Architecture
+    <ul>
+      <li>PC Hardware</li>
+      <li>Data Analysis using R Programming</li>
+      <li>Networking</li>
+    </ul>
+  
+</ul>
+<button class="btn btn-primary">Get Window Dimensions</button>
+<div id="msg"></div>
+</header>
+
+  </body>
+</html>
